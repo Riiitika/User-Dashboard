@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Feb 2024 12:54:20 at https://medical-dash.netlify.com/html/index-hos-dashboard.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://medical-dash.netlify.com/html/index-hos-dashboard.html -O1 "E:\demo\medical" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:54:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://medical-dash.netlify.app/assets/css/responsive.css
+12:56:30	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/crypto-account-setting.html (from https://medical-dash.netlify.app/html/index-hos-dashboard.html)
+12:56:30	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/crypto-profile.html (from https://medical-dash.netlify.app/html/index-hos-dashboard.html)
+12:56:30	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/crypto-faq.html (from https://medical-dash.netlify.app/html/index-hos-dashboard.html)
+12:56:30	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/crypto-login.html (from https://medical-dash.netlify.app/html/index-hos-dashboard.html)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/crypto-dash/login-bg.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/images/login-logo.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/res-dash/item1-bg.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/res-dash/item2-bg.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/res-dash/item3-bg.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/res-dash/pattern.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/img/core-img/cards-bg.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/res-dash/pattern2.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/crypto-dash/dotted-bg.jpg (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/crypto-dash/ref-bg1.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/crypto-dash/ref-bg2.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/data/crypto-dash/ref-bg3.png (from https://medical-dash.netlify.app/assets/css/style.css)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/hos-staff-profile.html (from https://medical-dash.netlify.app/html/hos-all-doctors)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/index.html (from https://medical-dash.netlify.app/html/hos-add-doctor)
+12:57:25	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/hos-patients.html (from https://medical-dash.netlify.app/html/hos-add-doctor)
+12:57:32	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/index-dashboard.html (from https://medical-dash.netlify.app/html/ui-login)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/crypto-support.html (from https://medical-dash.netlify.app/html/charts-echart-line)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/html/charts-flot-stacked.html (from https://medical-dash.netlify.app/html/charts-flot-area)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/sort_both.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/jquery.dataTables.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/sort_asc.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/jquery.dataTables.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/sort_desc.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/jquery.dataTables.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/sort_asc_disabled.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/jquery.dataTables.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/sort_desc_disabled.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/jquery.dataTables.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/collection.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/dataTables.tableTools.min.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/collection_hover.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/dataTables.tableTools.min.css)
+12:57:47	Error: 	"Not Found" (404) at link https://medical-dash.netlify.app/assets/plugins/datatables/images/background.png (from https://medical-dash.netlify.app/assets/plugins/datatables/css/dataTables.tableTools.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 21 seconds : 308 links scanned, 277 files written (9610127 bytes overall) [2921603 bytes received at 11193 bytes/sec], 8444313 bytes transferred using HTTP compression in 171 files, ratio 18%
+(30 errors, 1 warnings, 0 messages)
